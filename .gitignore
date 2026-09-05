@@ -1,0 +1,32 @@
+# Backend and admin will be deployed later
+backend/
+admin/
+
+# Local / backup files
+index-backup.html
+preview.html
+assets/css/styles-before-home.css
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
