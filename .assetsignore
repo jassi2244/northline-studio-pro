@@ -1,0 +1,16 @@
+.git/
+.git/**
+.github/
+
+.gitignore
+.assetsignore
+README.md
+
+wrangler.jsonc
+wrangler.toml
+
+backend/
+admin/
+
+index-backup.html
+preview.html
